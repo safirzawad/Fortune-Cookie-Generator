@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 200%;
+}
+h1{
+    font-family: fantasy;
+    color: firebrick;
+}
+.button{
+    float: left;
+  border: 1px solid green;
+}
